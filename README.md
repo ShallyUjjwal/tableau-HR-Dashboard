@@ -29,7 +29,7 @@ This project showcases a two-page **HR Analytics Dashboard** built using **Table
 ---
 
 ### 📌 Employee Detail View (Page 2)
-
+|dashboard|page|
 |![Screenshot 2025-05-04 141603](https://github.com/user-attachments/assets/3a46776c-7216-44cf-a2b9-0299b6457044)|![Screenshot 2025-05-04 142827](https://github.com/user-attachments/assets/e379d6ef-1356-49f9-9194-681196bac12d)
 |
 
