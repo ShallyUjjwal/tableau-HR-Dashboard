@@ -121,9 +121,12 @@ This helped accelerate development and ensure real-world relevance of the analyt
 ---
 ## Dashboard Overview
 
-|![overview](https://github.com/user-attachments/assets/12d496dc-c1cb-486c-aceb-529cb192382d)|![Screenshot 2025-05-04 142854](https://github.com/user-attachments/assets/78a5c43a-54ce-4b90-b2e0-0a304fa3fd57)|
-|![Screenshot 2025-05-04 144130](https://github.com/user-attachments/assets/d20cfdc3-3207-4626-a3dc-e4cf94987166)|![Screenshot 2025-05-04 144215](https://github.com/user-attachments/assets/c38ab4a8-7c01-4aad-911e-53f44e30f7cb)|
-|![Screenshot 2025-05-04 144307](https://github.com/user-attachments/assets/4339d3c9-e673-4d0c-9f44-508545e66eb3)|![Screenshot 2025-05-04 144330](https://github.com/user-attachments/assets/01bd58c3-2f44-425c-8ac6-ce3488ead52e)| 
+![overview](https://github.com/user-attachments/assets/12d496dc-c1cb-486c-aceb-529cb192382d)
+![Screenshot 2025-05-04 142854](https://github.com/user-attachments/assets/78a5c43a-54ce-4b90-b2e0-0a304fa3fd57)
+![Screenshot 2025-05-04 144130](https://github.com/user-attachments/assets/d20cfdc3-3207-4626-a3dc-e4cf94987166)
+![Screenshot 2025-05-04 144215](https://github.com/user-attachments/assets/c38ab4a8-7c01-4aad-911e-53f44e30f7cb)
+![Screenshot 2025-05-04 144307](https://github.com/user-attachments/assets/4339d3c9-e673-4d0c-9f44-508545e66eb3)
+![Screenshot 2025-05-04 144330](https://github.com/user-attachments/assets/01bd58c3-2f44-425c-8ac6-ce3488ead52e)
 
 
 ---
