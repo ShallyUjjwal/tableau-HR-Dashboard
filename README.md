@@ -131,8 +131,7 @@ This helped accelerate development and ensure real-world relevance of the analyt
 
 ---
 
-## 📬 Connect With Me
-
-**🔗 [LinkedIn](https://linkedin.com/in/your-profile)**  
-**📧 your.email@example.com**  
-**🌐 [Tableau Public Profile](https://public.tableau.com/app/profile/your-profile)** (if available)
+## 🔗 Connect with Me
+💼 **LinkedIn**: [Shally Ujjwal](https://www.linkedin.com/in/shally-ujjwal-83056b219/)  
+📧 **Email**: shellyujjwal1701@gmail.com  
+📂 **GitHub**: [Shally Ujjwal](https://github.com/ShallyUjjwal)  
